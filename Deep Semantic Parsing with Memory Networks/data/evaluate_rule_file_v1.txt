@@ -1,0 +1,40 @@
+1025#0##In the figure above , what is the value of x ?$$value x$
+1027#1##What is the value of v ?$$value v$
+1030#0##In quadrilateral PQRS above , what is the value of v ?$$value v$quadrilateral PQRS$
+1031#0##In the figure above , point O lies on line AB .$$point O$line AB$
+1031#1##What is the value of x ?$$value x$
+1032#0##In triangle ABC above , the bisector of angle BAC is perpendicular to BC at point D .$$triangle ABC$angle BAC$point D$
+1032#1##If @s_0 holds and @s_1 holds , what is the measure of angle BAC ?$$angle BAC$
+1035#1##What is the value of y ?$$value y$
+1037#0##In the figure above , the circle has center P and radius r .$$radius r$center P$
+1037#1##Lines AB and AC are tangent to the circle .$$Lines AB$Lines AC$
+1037#2##If M is the midpoint of segment AC and the measure of angle PMC equals the measure of angle MPC , what is the length , in terms of r , of segment PA ?$$segment AC$angle PMC$angle MPC$segment PA$Midpoint M$
+963#0##In the figure above , lines l and k intersect at point Q .$$lines l$point Q$lines k$
+963#1##If @s_0 holds and @s_1 holds , what is the value of x ?$$value x$
+968#0##In the figure above , triangle ABC is inscribed in the circle with center O and diameter AC .$$triangle ABC$center O$diameter AC$
+968#1##If @s_0 holds , what is the degree measure of angle ABO ?$$angle ABO$
+969#0##In the figure above , line AB , line CD , and line EF intersect at P .$$line CD$line AB$line EF$
+969#1##If @s_0 holds , @s_1 holds , @s_2 holds , @s_3 holds , and @s_4 holds , what is the value of x ?$$value x$
+1466#1##The area of triangle RST is 7 and @s_0 holds .$$triangle RST$
+1466#2##What is the area of PQRS ?$$area PQRS$
+1467#0##In the figure above , point B lies on side AC .$$point B$side AC$
+1467#1##If @s_0 holds , what is one possible value of y ?$$value y$
+1468#0##In rectangle ABDF above , C and E are midpoints of sides BD and DF , respectively .$$sides BD$rectangle ABDF$midpoints C$midpoints E$sides DF$
+1469#0##In rectangle ABCD above , the area of the shaded region is given by v .$$rectangle ABCD$area v$
+1469#1##If the area of the shaded region is v , what is the total area , to the nearest whole number , of the unshaded regions of rectangle ABCD ?$$rectangle ABCD$area v$
+1472#1##Point P is the center of the large circle and PA and PB are radii .$$radii PA$Point P$radii PB$
+1473#0##In the figure above , the circle with center O has radius 7 , AB is a diameter , and @s_0 holds .$$diameter AB$center O$
+1473#1##What is the area of triangle ABC ?$$triangle ABC$
+1474#0##In the figure above , lines l and m are not parallel .$$lines l$lines m$
+1476#0##In the figure above , what is the value of x ?$$value x$
+1477#0##The perimeter of the rectangle above is p and the area of the rectangle is 36 .$$perimeter p$
+1477#1##If l and w are integers , what is one possible value of p ?$$value p$integers l$integers w$
+1478#0##In the figure above , if the angle ( not shown ) where lines n and p intersect is twice as large as the angle ( also not shown ) where lines l and m intersect , what is the value of x ?$$value x$lines n$lines p$lines m$lines l$
+1479#0##In the figure above , points A and B lie on the circle with center O .$$points A$points B$center O$
+1479#1##If @s_0 holds , what is the value of z ?$$value z$
+1481#0##If the perimeter of the rectangle above is 72 , what is the value of x ?$$value x$
+1482#0##In triangle ABC above , the length of AB is 3 , and D is the midpoint of AC .$$triangle ABC$length AB$midpoint D$
+1482#1##What is the length of BC ?$$length BC$
+971#0##In the figure above , CDE is an equilateral triangle and ABCE is a square with an area of 1 .$$square ABCE$triangle CDE$
+971#1##What is the perimeter of polygon ABCDE ?$$polygon ABCDE$
+1485#0##In the figure above , if the area of triangle CAF is equal to the area of rectangle CDEF , what is the length of segment AD ?$$triangle CAF$rectangle CDEF$segment AD$
