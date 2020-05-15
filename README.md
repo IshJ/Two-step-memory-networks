@@ -1,4 +1,4 @@
-# Two-step-memory-networks
+# Two-step memory networks
 
 This repository contains code and formatted dataset from GEOS. 
 
