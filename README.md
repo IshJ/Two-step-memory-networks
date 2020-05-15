@@ -15,8 +15,8 @@ Jayasinghe, Ishadi, and Surangika Ranathunga. "Two-Step Memory Networks for Deep
 Seo, Minjoon, et al. "Solving geometry problems: Combining text and diagram interpretation." Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing. 2015.
 
 
-If you need more clarifications please contact through following email addresses.
+If you need more clarifications, please contact through following email addresses.
 
-Ishadi - ishadi.12@cse.mrt.ac.lk 
+Ishadi - ishadij.12@cse.mrt.ac.lk 
 
 Dr. Surangika Ranathunga -surangika@cse.mrt.ac.lk
